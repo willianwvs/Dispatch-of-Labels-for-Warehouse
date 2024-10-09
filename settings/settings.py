@@ -1,0 +1,1 @@
+varMainLanguage = 'PT-BR.py'
